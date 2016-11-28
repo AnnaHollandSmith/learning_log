@@ -4,22 +4,25 @@ This is primarily a space for identifying and recording my progress. This reposi
 
 ## Topics
 
-#### Computer Science - General Concepts and Theory
+**Computer Science - General Concepts and Theory:**
 
-[Harvard CS50](https://github.com/AnnaHollandSmith/harvard_CS50)
+- [Harvard CS50](https://github.com/AnnaHollandSmith/harvard_CS50)
 
-#### Ruby
+**Amazon Web Services:**
 
-#### Javascript
+**Microservices**
 
-#### Scala
+**Languages/Frameworks:**
 
-#### Python
+Language | Courses/Resources
+--- | ---
+Ruby |
+Javascript |
+Scala |
+Python |
 
-#### Amazon Web Services
 
-#### Microservices
 
-##### Additional Resources Used:
+###### Additional Resources Used:
 
 [Codekata](http://codekata.com/)
