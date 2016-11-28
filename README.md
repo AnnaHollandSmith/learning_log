@@ -6,4 +6,14 @@ This is primarily a space for identifying and recording my progress. This reposi
 
 #### Computer Science - General Concepts and Theory
 
+#### Ruby
+
+#### Javascript
+
+#### Scala
+
+#### Python
+
 #### Amazon Web Services
+
+#### Microservices
