@@ -14,12 +14,12 @@ This is primarily a space for identifying and recording my progress. This reposi
 
 **Languages/Frameworks:**
 
-Language | Courses/Resources
---- | ---
-Ruby |
-Javascript |
-Scala |
-Python |
+Language | Courses/Resources | Github Repository (my work)
+--- | --- | ---
+Ruby |  |  
+Javascript | | [Coursera: Server-Side Node](https://github.com/AnnaHollandSmith/coursera_serverside_node)
+Scala | |
+Python | |
 
 
 
