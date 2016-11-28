@@ -6,6 +6,8 @@ This is primarily a space for identifying and recording my progress. This reposi
 
 #### Computer Science - General Concepts and Theory
 
+[Harvard CS50](https://github.com/AnnaHollandSmith/harvard_CS50)
+
 #### Ruby
 
 #### Javascript
@@ -17,3 +19,7 @@ This is primarily a space for identifying and recording my progress. This reposi
 #### Amazon Web Services
 
 #### Microservices
+
+##### Additional Resources Used:
+
+[Codekata](http://codekata.com/)
