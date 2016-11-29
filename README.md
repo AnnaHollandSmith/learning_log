@@ -7,13 +7,11 @@ This is primarily a space for identifying and recording my progress. This reposi
 **Computer Science - General Concepts and Theory:**
 
   - **Courses:**
-- [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
 - [Harvard CS50](https://github.com/AnnaHollandSmith/harvard_CS50)
+- [Udacity's CS101](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
   - **Books:**
 - [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
-- [Harvard CS50](https://github.com/AnnaHollandSmith/harvard_CS50)
-- [Udacity's CS101](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
 **Amazon Web Services:**
 
