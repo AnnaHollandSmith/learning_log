@@ -34,4 +34,5 @@ Python | |
 
 ###### Additional Resources Used:
 
-[Codekata](http://codekata.com/)
+ - [Codekata](http://codekata.com/)<br>
+ - [Online Learning Intensive Bachelors](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
