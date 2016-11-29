@@ -12,6 +12,10 @@ This is primarily a space for identifying and recording my progress. This reposi
 
   - **Books:**
 - [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
+- [Computer Science Basics in Ruby](ftp://ftp.micronet-rostov.ru/linux-support/books/computer%20science/[OReily]Computer%20Science%20Programming%20Basics%20in%20Ruby%20-2013.pdf)
+
+ - **Other:**
+- [Destroy All Software's Screencasts](https://www.destroyallsoftware.com/screencasts)
 
 **Amazon Web Services:**
 
