@@ -7,6 +7,7 @@ This is primarily a space for identifying and recording my progress. This reposi
 **Computer Science - General Concepts and Theory:**
 
 - [Harvard CS50](https://github.com/AnnaHollandSmith/harvard_CS50)
+- [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
 
 **Amazon Web Services:**
 
