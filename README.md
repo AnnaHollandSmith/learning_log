@@ -14,12 +14,12 @@ This is primarily a space for identifying and recording my progress. This reposi
 - [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
 - [Computer Science Basics in Ruby](./resources/CS.pdf)
 
- - **Other:**
+  - **Other:**
 - [Destroy All Software's Screencasts](https://www.destroyallsoftware.com/screencasts)
 
 **Amazon Web Services:**
 
-**Microservices**
+**Microservices:**
 
 **Languages/Frameworks:**
 
@@ -37,3 +37,6 @@ Python | |
  - [Codekata](http://codekata.com/)<br>
  - [Online Learning Intensive Bachelors](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
  - [Free Code Camp](https://www.freecodecamp.com/)
+ - [The Odin Project](http://www.theodinproject.com/courses)
+ - [Epicodus' Syllabus](https://www.learnhowtoprogram.com/courses)
+ - [Stanford Self Study](https://backdoorgraduteschooladmissions.quora.com/Self-study-for-Stanfords-MSCS-Foundation-courses)
