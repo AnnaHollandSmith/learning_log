@@ -27,7 +27,8 @@ Language | Courses/Resources | Github Repository (my work)
 --- | --- | ---
 Ruby |  |  
 Javascript | | [Coursera: Server-Side Node](https://github.com/AnnaHollandSmith/coursera_serverside_node)
-Scala | |
+Scala |  [Big Data University: Introduction to Scala](https://bigdatauniversity.com/courses/introduction-to-scala/) |
+| [Scala School](http://twitter.github.io/scala_school/) |
 Python | |
 
 
@@ -40,3 +41,4 @@ Python | |
  - [The Odin Project](http://www.theodinproject.com/courses)
  - [Epicodus' Syllabus](https://www.learnhowtoprogram.com/courses)
  - [Stanford Self Study](https://backdoorgraduteschooladmissions.quora.com/Self-study-for-Stanfords-MSCS-Foundation-courses)
+ - [Self Study computer course](http://bradfieldcs.com/diy/)
