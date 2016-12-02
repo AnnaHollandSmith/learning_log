@@ -23,14 +23,28 @@ This is primarily a space for identifying and recording my progress. This reposi
 
 **Languages/Frameworks:**
 
-Language | Courses/Resources | Github Repository (my work)
---- | --- | ---
-Ruby |  |  
-Javascript | | [Coursera: Server-Side Node](https://github.com/AnnaHollandSmith/coursera_serverside_node)
-Scala |  [Big Data University: Introduction to Scala](https://bigdatauniversity.com/courses/introduction-to-scala/) |
-| [Scala School](http://twitter.github.io/scala_school/) |
-Python | |
+Ruby:
 
+Course | My Github Repository
+--- | ---
+[The Odin Project](http://www.theodinproject.com/courses) |
+[Epicodus' Ruby Syllabus](https://www.learnhowtoprogram.com/ruby) |
+[Epicodus' Rails Syllabus](https://www.learnhowtoprogram.com/rails)
+
+Javascript:
+
+Course | My Github Repository
+--- | ---
+| [Coursera: Server-Side Node](https://github.com/AnnaHollandSmith/coursera_serverside_node)
+[Epicodus' Javascript Syllabus](https://www.learnhowtoprogram.com/javascript)
+
+Scala:
+
+Course | My Github Repository
+--- | ---
+ [Big Data University: Introduction to Scala](https://bigdatauniversity.com/courses/introduction-to-scala/) |
+ [Scala School](http://twitter.github.io/scala_school/) |
+ [Coursera: Scala Specialization](https://www.coursera.org/specializations/scala) |
 
 
 ###### Additional Resources Used:
@@ -38,7 +52,5 @@ Python | |
  - [Codekata](http://codekata.com/)<br>
  - [Online Learning Intensive Bachelors](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
  - [Free Code Camp](https://www.freecodecamp.com/)
- - [The Odin Project](http://www.theodinproject.com/courses)
- - [Epicodus' Syllabus](https://www.learnhowtoprogram.com/courses)
  - [Stanford Self Study](https://backdoorgraduteschooladmissions.quora.com/Self-study-for-Stanfords-MSCS-Foundation-courses)
  - [Self Study computer course](http://bradfieldcs.com/diy/)
