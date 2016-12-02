@@ -17,10 +17,6 @@ This is primarily a space for identifying and recording my progress. This reposi
   - **Other:**
 - [Destroy All Software's Screencasts](https://www.destroyallsoftware.com/screencasts)
 
-**Amazon Web Services:**
-
-**Microservices:**
-
 **Languages/Frameworks:**
 
 Ruby:
@@ -29,7 +25,7 @@ Course | My Github Repository
 --- | ---
 [The Odin Project](http://www.theodinproject.com/courses) |
 [Epicodus' Ruby Syllabus](https://www.learnhowtoprogram.com/ruby) |
-[Epicodus' Rails Syllabus](https://www.learnhowtoprogram.com/rails)
+[Epicodus' Rails Syllabus](https://www.learnhowtoprogram.com/rails) | 
 
 Javascript:
 
@@ -45,6 +41,10 @@ Course | My Github Repository
  [Big Data University: Introduction to Scala](https://bigdatauniversity.com/courses/introduction-to-scala/) |
  [Scala School](http://twitter.github.io/scala_school/) |
  [Coursera: Scala Specialization](https://www.coursera.org/specializations/scala) |
+
+ **Amazon Web Services:**
+
+ **Microservices:**
 
 
 ###### Additional Resources Used:
