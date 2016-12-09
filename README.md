@@ -25,7 +25,7 @@ Course | My Github Repository
 --- | ---
 [The Odin Project](http://www.theodinproject.com/courses) |
 [Epicodus' Ruby Syllabus](https://www.learnhowtoprogram.com/ruby) |
-[Epicodus' Rails Syllabus](https://www.learnhowtoprogram.com/rails) | 
+[Epicodus' Rails Syllabus](https://www.learnhowtoprogram.com/rails) |
 
 Javascript:
 
@@ -38,7 +38,7 @@ Scala:
 
 Course | My Github Repository
 --- | ---
- [Big Data University: Introduction to Scala](https://bigdatauniversity.com/courses/introduction-to-scala/) |
+ [Big Data University: Introduction to Scala](https://bigdatauniversity.com/courses/introduction-to-scala/) | [My work](https://github.com/AnnaHollandSmith/Scala_101)
  [Scala School](http://twitter.github.io/scala_school/) |
  [Coursera: Scala Specialization](https://www.coursera.org/specializations/scala) |
 
