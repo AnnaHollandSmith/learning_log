@@ -32,7 +32,8 @@ Javascript:
 Course | My Github Repository
 --- | ---
 | [Coursera: Server-Side Node](https://github.com/AnnaHollandSmith/coursera_serverside_node)
-[Epicodus' Javascript Syllabus](https://www.learnhowtoprogram.com/javascript)
+[Epicodus' Javascript Syllabus](https://www.learnhowtoprogram.com/javascript) |
+[30 days of Javascript](https://javascript30.com/) |
 
 Scala:
 
