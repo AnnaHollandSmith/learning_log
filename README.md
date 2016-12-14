@@ -34,6 +34,16 @@ Course | My Github Repository
 | [Coursera: Server-Side Node](https://github.com/AnnaHollandSmith/coursera_serverside_node)
 [Epicodus' Javascript Syllabus](https://www.learnhowtoprogram.com/javascript) |
 [30 days of Javascript](https://javascript30.com/) |
+[Node School](https://nodeschool.io/#workshoppers) |
+[Code School: Javascript](https://codeschool.pluralsight.com/account) |
+[Treehouse: Introduction to Node](https://teamtreehouse.com/library/nodejs-basics) |
+
+
+_Additional Javascript Resources:_
+
+* [Get Started with ECMAScript 6](http://blog.teamtreehouse.com/get-started-ecmascript-6)
+* [ES7: Async/Await](http://rossboucher.com/await/#/)
+* [Node Hero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
 
 Scala:
 
@@ -43,9 +53,25 @@ Course | My Github Repository
  [Scala School](http://twitter.github.io/scala_school/) |
  [Coursera: Scala Specialization](https://www.coursera.org/specializations/scala) |
 
+ _Additional Scala Resources:_
+
+ * [Scala Tutorials](http://scalatutorials.com/)
+
  **Amazon Web Services:**
 
  **Microservices:**
+
+ **API's**
+
+_Resources:_
+
+* [Designing Restful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+ **Docker**
+
+ _Resources:_
+
+ * [An Introduction to Docker](https://www.codementor.io/docker/tutorial/what-is-docker-tutorial-andrew-baker-oreilly)
+ * [A Beginner Friendly Introduction](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.3h5ihvkx9)
 
 
 ###### Additional Resources Used:
