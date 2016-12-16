@@ -27,6 +27,10 @@ Course | My Github Repository
 [Epicodus' Ruby Syllabus](https://www.learnhowtoprogram.com/ruby) |
 [Epicodus' Rails Syllabus](https://www.learnhowtoprogram.com/rails) |
 
+_Additional Resources:_
+
+* [Michael Hartl's Rails Tutorial](https://www.railstutorial.org/book)
+
 Javascript:
 
 Course | My Github Repository
