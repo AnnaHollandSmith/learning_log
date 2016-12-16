@@ -30,6 +30,8 @@ Course | My Github Repository
 _Additional Resources:_
 
 * [Michael Hartl's Rails Tutorial](https://www.railstutorial.org/book)
+* [Ruby Learning (Cheat Sheets)](http://rubylearning.com/satishtalim/tutorial.html)
+* [Introduction to Ruby Programming: Launch School](https://launchschool.com/books/ruby)
 
 Javascript:
 
