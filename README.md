@@ -2,9 +2,11 @@
 
 This is primarily a space for identifying and recording my progress. This repository is used both to keep a record of resources that I have identified as being useful to my development and to record my own personal development as I work through these resources.
 
-## Topics
+## Topics:
 
-**Computer Science - General Concepts and Theory:**
+[Computer Science](#Computer Science - General Concepts and Theory:) | [Languages/Frameworks](#Languages/Frameworks:) | [Amazon Web Services](#Amazon Web Services:) | [Microservices](#Microservices:) | [APIs](APIs:) | [Docker](#docker)
+
+#### Computer Science - General Concepts and Theory:
 
   - **Courses:**
 - [Harvard CS50](https://github.com/AnnaHollandSmith/harvard_CS50)
@@ -17,9 +19,9 @@ This is primarily a space for identifying and recording my progress. This reposi
   - **Other:**
 - [Destroy All Software's Screencasts](https://www.destroyallsoftware.com/screencasts)
 
-**Languages/Frameworks:**
+#### Languages/Frameworks:
 
-Ruby:
+**Ruby:**
 
 Course | My Github Repository
 --- | ---
@@ -33,7 +35,7 @@ _Additional Resources:_
 * [Ruby Learning (Cheat Sheets)](http://rubylearning.com/satishtalim/tutorial.html)
 * [Introduction to Ruby Programming: Launch School](https://launchschool.com/books/ruby)
 
-Javascript:
+**Javascript:**
 
 Course | My Github Repository
 --- | ---
@@ -51,7 +53,7 @@ _Additional Javascript Resources:_
 * [ES7: Async/Await](http://rossboucher.com/await/#/)
 * [Node Hero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
 
-Scala:
+**Scala:**
 
 Course | My Github Repository
 --- | ---
@@ -63,16 +65,17 @@ Course | My Github Repository
 
  * [Scala Tutorials](http://scalatutorials.com/)
 
- **Amazon Web Services:**
+#### Amazon Web Services:
 
- **Microservices:**
+#### Microservices:
 
- **API's**
+#### APIs:
 
 _Resources:_
 
 * [Designing Restful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
- **Docker**
+
+#### Docker:
 
  _Resources:_
 
