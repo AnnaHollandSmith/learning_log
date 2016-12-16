@@ -4,7 +4,7 @@ This is primarily a space for identifying and recording my progress. This reposi
 
 ## Topics:
 
-[Computer Science](#Computer Science - General Concepts and Theory:) | [Languages/Frameworks](#Languages/Frameworks:) | [Amazon Web Services](#Amazon Web Services:) | [Microservices](#Microservices:) | [APIs](APIs:) | [Docker](#docker)
+[Computer Science](####Computer Science - General Concepts and Theory:) | [Languages/Frameworks](#Languages/Frameworks:) | [Amazon Web Services](#Amazon Web Services:) | [Microservices](#Microservices:) | [APIs](APIs:) | [Docker](#docker)
 
 #### Computer Science - General Concepts and Theory:
 
